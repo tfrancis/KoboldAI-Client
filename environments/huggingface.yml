@@ -2,6 +2,7 @@ name: koboldai
 channels:
   - pytorch
   - conda-forge
+  - nvidia
   - defaults
 dependencies:
   - colorama
