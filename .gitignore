@@ -37,3 +37,4 @@ accelerate-disk-cache
 
 # Don't ignore defaults
 !defaults/*
+.history
